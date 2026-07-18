@@ -2,6 +2,10 @@
 
 A Verilog implementation of a **32-bit RISC-V RV32I 5-stage pipelined processor** featuring hazard detection, data forwarding, branch prediction, and separate instruction/data memories. The processor is designed following the standard IF–ID–EX–MEM–WB pipeline architecture and emphasizes modular RTL design.
 
+
+Project File Link https://drive.google.com/file/d/1wbpdVeCOtrTf-Kd_ullscAjK7d-vLxt8/view?usp=sharing
+
+ 
 ---
 
 ## Features
